@@ -1,5 +1,5 @@
-function test () {
+function test1 () {
   return 1
 }
 
-test()
+test1()
